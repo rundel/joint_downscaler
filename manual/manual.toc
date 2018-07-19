@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Preliminaries}{2}
+\contentsline {section}{\numberline {2}Files}{2}
+\contentsline {subsection}{\numberline {2.1}0-Setup.R}{2}
+\contentsline {subsection}{\numberline {2.2}1-PrepData.R}{3}
+\contentsline {subsubsection}{\numberline {2.2.1}Raw Data}{3}
+\contentsline {subsubsection}{\numberline {2.2.2}Weekly Aggregation}{3}
+\contentsline {subsubsection}{\numberline {2.2.3}Formatting / Hold outs}{4}
+\contentsline {subsection}{\numberline {2.3}2-GenRast.R}{4}
+\contentsline {subsection}{\numberline {2.4}3-Joint\_downscaler.R}{4}
+\contentsline {subsubsection}{\numberline {2.4.1}Options}{5}
+\contentsline {subsubsection}{\numberline {2.4.2}Output}{5}
+\contentsline {subsubsection}{\numberline {2.4.3}downscaler\_joint\_tobit.cpp}{5}
+\contentsline {subsection}{\numberline {2.5}4-Prediction.R}{6}
+\contentsline {subsubsection}{\numberline {2.5.1}Options}{6}
+\contentsline {subsubsection}{\numberline {2.5.2}Output}{6}
+\contentsline {subsubsection}{\numberline {2.5.3}downscaler\_joint\_predict.cpp}{6}
+\contentsline {subsection}{\numberline {2.6}Additional Files}{6}
